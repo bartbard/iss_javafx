@@ -1,0 +1,9 @@
+@font-face {
+    src: url("/fonts/AstroSpace.otf");
+}
+.root {
+-fx-background-image:url("/images/AppBackground.jpg");
+}
+.label {
+-fx-font-family: "a Astro Space";
+}
