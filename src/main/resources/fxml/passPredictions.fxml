@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane fx:id="borderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#loadMenu" prefHeight="800.0" prefWidth="1800.0" stylesheets="@../css/app.css" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="issCenter.passPredictions.PassPredictionsController">
+<BorderPane fx:id="borderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onMouseClicked="#loadMenu" prefHeight="800.0" prefWidth="1800.0" stylesheets="@../css/app.css" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.passPredictions.PassPredictionsController">
     <top>
         <Pane prefHeight="90.0" prefWidth="600.0" BorderPane.alignment="CENTER">
             <children>
@@ -30,4 +30,3 @@
         </Pane>
     </top>
 </BorderPane>
-

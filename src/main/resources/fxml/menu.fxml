@@ -9,7 +9,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
-<GridPane fx:id="mainGridPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="819.0" prefWidth="1287.0" stylesheets="@../css/app.css" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="issCenter.menu.MenuController">
+<GridPane fx:id="mainGridPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="819.0" prefWidth="1287.0" stylesheets="@../css/app.css" xmlns="http://javafx.com/javafx/15.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.menu.MenuController">
   <columnConstraints>
     <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
     <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -30,7 +30,7 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </ImageView>
-      <Label prefHeight="29.0" prefWidth="229.0" stylesheets="@../css/app.css" text="Current Speed" textAlignment="CENTER" textFill="WHITE" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
+      <Label prefHeight="29.0" prefWidth="229.0" stylesheets="@../../../../../issFx_maven/src/main/resources/isscenterResources/css/app.css" text="Current Speed" textAlignment="CENTER" textFill="WHITE" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
          <font>
             <Font name="System Bold" size="25.0" />
          </font>
@@ -43,7 +43,7 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </ImageView>
-      <Label prefHeight="29.0" prefWidth="241.0" stylesheets="@../css/app.css" text="People In Space" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
+      <Label prefHeight="29.0" prefWidth="241.0" stylesheets="@../../../../../issFx_maven/src/main/resources/isscenterResources/css/app.css" text="People In Space" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="1" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
          <font>
             <Font name="System Bold" size="25.0" />
          </font>
@@ -56,7 +56,7 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </ImageView>
-      <Label prefHeight="29.0" prefWidth="263.0" stylesheets="@../css/app.css" text="Current Position" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
+      <Label prefHeight="29.0" prefWidth="263.0" stylesheets="@../../../../../issFx_maven/src/main/resources/isscenterResources/css/app.css" text="Current Position" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="2" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
          <font>
             <Font name="System Bold" size="25.0" />
          </font>
@@ -69,7 +69,7 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </ImageView>
-      <Label prefHeight="29.0" prefWidth="263.0" stylesheets="@../css/app.css" text="Pass Predictions" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
+      <Label prefHeight="29.0" prefWidth="263.0" stylesheets="@../../../../../issFx_maven/src/main/resources/isscenterResources/css/app.css" text="Pass Predictions" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="3" GridPane.halignment="CENTER" GridPane.rowIndex="2" GridPane.valignment="TOP">
          <font>
             <Font name="System Bold" size="25.0" />
          </font>
@@ -82,12 +82,12 @@
             <Cursor fx:constant="HAND" />
          </cursor>
       </ImageView>
-      <Label alignment="CENTER_RIGHT" prefHeight="108.0" prefWidth="328.0" stylesheets="@../css/app.css" text="ISS " textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.valignment="CENTER">
+      <Label alignment="CENTER_RIGHT" prefHeight="108.0" prefWidth="328.0" stylesheets="@../../../../../issFx_maven/src/main/resources/isscenterResources/css/app.css" text="ISS " textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.valignment="CENTER">
          <font>
             <Font name="System Bold" size="74.0" />
          </font>
       </Label>
-      <Label prefHeight="108.0" prefWidth="444.0" stylesheets="@../css/app.css" text="CENTER" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="CENTER">
+      <Label prefHeight="108.0" prefWidth="444.0" stylesheets="@../../../../../issFx_maven/src/main/resources/isscenterResources/css/app.css" text="CENTER" textAlignment="CENTER" textFill="WHITE" GridPane.columnIndex="2" GridPane.halignment="LEFT" GridPane.valignment="CENTER">
          <font>
             <Font name="System Bold" size="74.0" />
          </font>

@@ -1,6 +1,6 @@
-package issCenter.passPredictions;
+package controllers.passPredictions;
 
-import issCenter.menu.MenuController;
+import controllers.menu.MenuController;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.input.MouseEvent;

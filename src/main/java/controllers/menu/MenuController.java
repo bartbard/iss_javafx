@@ -1,7 +1,7 @@
-package issCenter.menu;
+package controllers.menu;
 
 import database.hibernate.HibernateSingleton;
-import issCenter.settings.SettingsController;
+import controllers.settings.SettingsController;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;

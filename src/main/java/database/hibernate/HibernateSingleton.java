@@ -2,7 +2,7 @@ package database.hibernate;
 
 import database.model.*;
 import database.repository.ISSRepository;
-import issCenter.openNotify.OpenNotifyInformation;
+import controllers.openNotify.OpenNotifyInformation;
 import lombok.Data;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

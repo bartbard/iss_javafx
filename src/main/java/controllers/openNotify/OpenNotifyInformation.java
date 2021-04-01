@@ -1,4 +1,4 @@
-package issCenter.openNotify;
+package controllers.openNotify;
 
 
 import database.model.Astronaut;

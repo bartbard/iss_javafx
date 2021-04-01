@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 import java.io.IOException;
 import java.util.List;
 
-import static issCenter.openNotify.OpenNotifyInformation.getPeopleInSpace;
+import static controllers.openNotify.OpenNotifyInformation.getPeopleInSpace;
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class OpenNotifyInformationTest {

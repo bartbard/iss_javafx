@@ -1,4 +1,4 @@
-package issCenter.openNotify;
+package controllers.openNotify;
 
 import lombok.Data;
 import okhttp3.Call;

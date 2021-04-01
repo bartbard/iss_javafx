@@ -1,4 +1,4 @@
-package issCenter.application;
+package controllers.application;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
